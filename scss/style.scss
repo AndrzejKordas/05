@@ -1,0 +1,16 @@
+$tloColor:#eee;
+$tloFontu:#444;
+body{
+	background: $tloColor; 
+	color: $tloFontu;
+	font-family: 'Encode Sans Semi Expanded', sans-serif;
+}
+li{
+	margin:0.5rem 0;
+	list-style: disc;
+	list-style-type: disc;
+}
+strong{
+	font-weight: 600;
+	font-size: 0.9rem;
+}

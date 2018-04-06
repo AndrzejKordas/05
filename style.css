@@ -1,14 +1,2 @@
-body{
-	background: #eee;
-	color: #444;
-	font-family: sans-serif;
-}
-li{
-	margin:0.5rem 0;
-	list-style: disc;
-	list-style-type: disc;
-}
-strong{
-	font-weight: 600;
-	font-size: 0.9rem;
-}
+body{background:#eee;color:#444;font-family:'Encode Sans Semi Expanded', sans-serif}li{margin:0.5rem 0;list-style:disc;list-style-type:disc}strong{font-weight:600;font-size:0.9rem}
+/*# sourceMappingURL=style.css.map */
