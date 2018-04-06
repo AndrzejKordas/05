@@ -8,3 +8,7 @@ li{
 	list-style: disc;
 	list-style-type: disc;
 }
+strong{
+	font-weight: 600;
+	font-size: 0.9rem;
+}
