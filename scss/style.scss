@@ -7,9 +7,23 @@ body{
 }
 li{
 	margin:0.5rem 0;
-	list-style-type: disc;
+	list-style-type:circle;
+
 }
 strong{
 	font-weight: 600;
-	font-size: 0.9rem;
+	font-size: 0.95rem;
+}
+main{
+	width: 90%;
+	padding: 1rem;
+	margin: auto;
+	box-sizing: border-box;
+	border:1px solid #ddd;
+	hr{
+		color:#ddd;
+		height:1px;
+		border:none;
+		background: #d9d9d9;
+	}
 }
